@@ -15,25 +15,28 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-i'm a Software Developer/ Web Developer / PHP Developer / UX&UI Designer 
-From 📍Lisbon with over 5 years of experience designing, building, and customizing websites/software.
+i'm a Software Developer/ Web Developer / PHP Developer / UX&UI Designer  <br />
+
+From 📍Lisbon with over 5 years of experience designing, building, and customizing websites/software <br />
 
 
 
-📚 I'm currently finishing, a intership report, to complete a Computer Science Degree at University, Santarém School of Management and Technology.
-🌱 I’m currently learning Node.js and Angular
-👨‍💻 I attended an internship as a web developer developing PWA's: programming POS systems and API integration.
+📚 I'm currently finishing, a intership report, to complete a Computer Science Degree at University, Santarém School of Management and Technology <br />
 
-💥 My strengths:
-✅ Responsibility
-✅ Creativity
-✅ Proactive
+🌱 I’m currently learning Node.js and Angular <br />
 
-⚡ Fun fact:
-- Since a kid i'm a tec lover.
-- I really like doing Crossfit®, help me keeping focus what matter 🎯
+👨‍💻 I attended an internship as a web developer developing PWA's: programming POS systems and API integration <br />
 
-[LinkedIn] (https://www.linkedin.com/in/gilbertofernandes19/)
+💥 My strengths: <br />
+✅ Responsibility <br />
+✅ Creativity <br />
+✅ Proactive <br />
+
+⚡ Fun fact:<br />
+- Since a kid i'm a tec lover. <br />
+- I really like doing Crossfit®, help me keeping focus what matter 🎯 <br />
+
+[LinkedIn]: https://www.linkedin.com/in/gilbertofernandes19
 
 
 
