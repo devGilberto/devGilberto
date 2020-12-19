@@ -33,7 +33,7 @@ From 📍Lisbon with over 5 years of experience designing, building, and customi
 - Since a kid i'm a tec lover.
 - I really like doing Crossfit®, help me keeping focus what matter 🎯
 
-[LinkedIn]: https://www.linkedin.com/in/gilbertofernandes19/
+[LinkedIn] (https://www.linkedin.com/in/gilbertofernandes19/)
 
 
 
