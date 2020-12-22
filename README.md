@@ -33,11 +33,12 @@ From 📍Lisbon with over 5 years of experience designing, building, and customi
 ✅ Proactive <br />
 
 ⚡ Fun fact:<br />
-- Since a kid i'm a tec lover. <br />
+- Since a kid i'm a tec lover. 
 - I really like doing Crossfit®, help me keeping focus what matter 🎯 
-- Volunteer Web Summit 2019 <br />
-
+- Volunteer Web Summit 2019
+<br />
 [LinkedIn]: https://www.linkedin.com/in/gilbertofernandes19
+[Behance]: https://www.behance.net/gilbertofernandes19
 
 
 
