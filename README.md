@@ -23,7 +23,7 @@ From 📍Lisbon with over 5 years of experience designing, building, and customi
 
 📚 I'm currently finishing, a intership report, to complete a Computer Science Degree at University, Santarém School of Management and Technology <br />
 
-🌱 I’m currently learning Node.js and Angular, also Outsystems🚀 <br />
+🌱 I’m currently learning Node.js and Angular 🚀 <br />
 
 👨‍💻 I attended an internship as a web developer developing PWA's: programming POS systems and API integration <br />
 
