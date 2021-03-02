@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 i'm a Software Developer/ Web Developer / PHP Developer / UX&UI Designer  <br />
 
-From 📍Lisbon with over 5 years of experience designing, building, and customizing websites/software <br />
+From 📍Lisbon with over 5 years of experience mixed with professional and academic experience of designing, building, and customizing websites/software <br />
 
 
 
